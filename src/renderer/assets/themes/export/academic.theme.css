@@ -45,7 +45,7 @@
 .markdown-body h5,
 .markdown-body h6 {
   font-weight: 600;
-  color: #282828;
+  color: #0D1117;
 }
 
 .markdown-body h1 {
@@ -83,7 +83,7 @@
 
 .markdown-body blockquote {
   border: none;
-  color: #282828;
+  color: #0D1117;
   padding: 0 1em;
   margin-left: 20px;
 }

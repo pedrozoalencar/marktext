@@ -19,11 +19,12 @@
   --editorColor50: rgba(255, 255, 255, .5);
   --editorColor40: rgba(255, 255, 255, .4);
   --editorColor30: rgba(255, 255, 255, .3);
+  --editorColor20: rgba(255, 255, 255, .2);
   --editorColor10: rgba(255, 255, 255, .1);
   --editorColor04: rgba(255, 255, 255, .04);
-  --editorBgColor: #282828;
+  --editorBgColor: #0D1117;
   --deleteColor: #409eff;
-  --iconColor: rgba(255, 255, 255, .56);
+  --iconColor: rgb(139, 148, 157);
   --codeBgColor: #424344;
   --codeBlockBgColor: #424344;
   --footnoteBgColor: rgba(66, 67, 68, .3);
@@ -57,16 +58,16 @@
   --tableBorderColor: #363839;
 
   /*marktext*/
-  --sideBarColor: rgba(255, 255, 255, .6);
+  --sideBarColor: rgb(134, 136, 139);
   --sideBarIconColor: var(--iconColor);
   --sideBarTitleColor: rgba(255, 255, 255, .8);
   --sideBarTextColor: rgba(255, 255, 255, .4);
-  --sideBarBgColor: #1e1e1e;
+  --sideBarBgColor: rgb(22, 27, 34);
   --sideBarItemHoverBgColor: rgba(255, 255, 255, .03);
   --itemBgColor: #3f3f3f;
 
   --floatFontColor: rgba(255, 255, 255, .7);
-  --floatBgColor: #3f3f3f;
+  --floatBgColor: rgb(28, 33, 40);
   --floatHoverColor: rgba(255, 255, 255, .04);
   --floatBorderColor: rgba(0, 0, 0, .05);
   --floatShadow: rgba(0, 0, 0, 0.2);

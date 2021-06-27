@@ -184,7 +184,7 @@ export default {
     transform: translateX(-50px);
   }
   .tree-view {
-    font-size: 14px;
+    font-size: 13px;
     color: var(--sideBarColor);
     display: flex;
     flex-direction: column;
@@ -215,7 +215,7 @@ export default {
     & > .title {
       height: 30px;
       line-height: 30px;
-      font-size: 14px;
+      font-size: 13px;
     }
   }
 

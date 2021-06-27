@@ -109,7 +109,7 @@ class BaseWindow extends EventEmitter {
     // that the window is loaded and then pass theme data to the renderer.
     switch (theme) {
       case 'dark':
-        return '#282828'
+        return '#0D1117'
       case 'material-dark':
         return '#34393f'
       case 'ulysses':

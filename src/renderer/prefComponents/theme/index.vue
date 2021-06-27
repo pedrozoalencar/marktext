@@ -104,7 +104,7 @@ export default {
       border-radius: 5px;
       &.dark {
         color: rgba(255, 255, 255, .7);
-        background: #282828;
+        background: #0D1117;
         & a {
           color: #409eff;
         }
